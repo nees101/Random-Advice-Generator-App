@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@nees101/FrontendMentor](https://your-solution-url.com)
-- Live Site URL: [@nees101/Github](https://your-live-site-url.com)
+- Solution URL: [@nees101/FrontendMentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-bootstrap-and-jquery-26h9etAkr)
+- Live Site URL: [@nees101/Github]( https://nees101.github.io/Random-Advice-Generator-App/)
 
 ## My process
 
