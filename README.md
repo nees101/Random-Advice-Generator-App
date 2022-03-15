@@ -29,11 +29,11 @@ Users should be able to:
 
 #### Desktop Design
 
-![](./FinalDesignScreenshots/Desktop_version.jpg)
+![](./FinalDesignScreenshots/Desktop_version.png)
 
 #### Mobile design
 
-![](./FinalDesignScreenshots/Mobile_version.jpg)
+![](./FinalDesignScreenshots/Mobile_version.png)
 
 
 ### Links
